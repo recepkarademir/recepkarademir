@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Gmail Badge](https://img.shields.io/badge/-recepkarademir0018@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:recepkarademir0018@gmail.com)](mailto:recepkarademir0018@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-recepkarademir-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/recepkarademir/)](https://www.linkedin.com/in/recepkarademir/) 
-[![Repos Badge](https://badges.pufler.dev/repos/recepkarademir)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/recepkarademir)](https://github.com/recepkarademir?tab=repositories)
 ![Profile views](https://gpvc.arturio.dev/recepkarademir?v=3)
 ## Some of my Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recepkarademir)](https://github.com/recepkarademir/github-readme-stats)
