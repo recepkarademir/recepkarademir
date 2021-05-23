@@ -12,5 +12,7 @@ recepkarademir/recepkarademir is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 ---><!-- Profile Views Counter -->
 ![Profile views](https://gpvc.arturio.dev/recepkarademir?v=3)
-[![Repos Badge](https://badges.pufler.dev/repos/recepkarademir)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/recepkarademir)](https://badges.pufler.dev)<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+</div
 
