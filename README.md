@@ -1,3 +1,8 @@
+
+<!---
+recepkarademir/recepkarademir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+---><!-- Profile Views Counter -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Recep</h1>
 <h3 align="center">Computer Engineer ⋆TR⋆</h3>
 
@@ -9,17 +14,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recepkarademir)](https://github.com/recepkarademir/github-readme-stats)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=recepkarademir&show_icons=true&include_all_commits=true)](https://github.com/recepkarademir/github-readme-stats)
 
-<!---
-recepkarademir/recepkarademir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----><!-- Profile Views Counter -->
-
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=recepkarademir)  
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=recepkarademir" alt="recepkarademir" /></a> </p>
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=recepkarademir)  
 
 
 <h3 align="left">Languages and Tools:</h3>
