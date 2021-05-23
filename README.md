@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Recep</h1>
+<h3 align="center">Computer Engineer ⋆TR⋆</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-recepkarademir0018@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:recepkarademir0018@gmail.com)](mailto:recepkarademir0018@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-recepkarademir-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/recepkarademir/)](https://www.linkedin.com/in/recepkarademir/) 
-<h3 align="center">Computer Engineer ⋆TR⋆</h3>
 ## Some of my Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=recepkarademir&show_icons=true&include_all_commits=true)](https://github.com/recepkarademir/github-readme-stats)
 
