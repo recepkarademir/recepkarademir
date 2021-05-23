@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-recepkarademir0018@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:recepkarademir0018@gmail.com)](mailto:recepkarademir0018@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-recepkarademir-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/recepkarademir/)](https://www.linkedin.com/in/recepkarademir/) 
 ## Some of my Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recepkarademir)](https://github.com/recepkarademir/github-readme-stats)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=recepkarademir&show_icons=true&include_all_commits=true)](https://github.com/recepkarademir/github-readme-stats)
 
 <!---
@@ -12,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ---><!-- Profile Views Counter -->
 
 [![Repos Badge](https://badges.pufler.dev/repos/recepkarademir)](https://badges.pufler.dev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recepkarademir)](https://github.com/recepkarademir/github-readme-stats)
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=recepkarademir)  
 
 ![Profile views](https://gpvc.arturio.dev/recepkarademir?v=3)
