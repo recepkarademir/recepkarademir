@@ -14,3 +14,4 @@ You can click the Preview link to take a look at your changes.
 ![Profile views](https://gpvc.arturio.dev/recepkarademir?v=3)
 [![Repos Badge](https://badges.pufler.dev/repos/recepkarademir)](https://badges.pufler.dev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recepkarademir)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=recepkarademir)  
