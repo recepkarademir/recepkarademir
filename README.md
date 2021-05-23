@@ -10,8 +10,7 @@ You can click the Preview link to take a look at your changes.
 [![Repos Badge](https://badges.pufler.dev/repos/recepkarademir)](https://badges.pufler.dev)
 ![Profile views](https://gpvc.arturio.dev/recepkarademir?v=3)
 ## Some of my Github Stats
-<div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recepkarademir)](https://github.com/recepkarademir/github-readme-stats)
-  [![Github stats](https://github-readme-stats.vercel.app/api?username=recepkarademir&show_icons=true&include_all_commits=true)](https://github.com/recepkarademir/github-readme-stats)</div>
+<div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recepkarademir)](https://github.com/recepkarademir/github-readme-stats)[![Github stats](https://github-readme-stats.vercel.app/api?username=recepkarademir&show_icons=true&include_all_commits=true)](https://github.com/recepkarademir/github-readme-stats)</div>
 
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=recepkarademir" alt="recepkarademir" /></a> </p>
