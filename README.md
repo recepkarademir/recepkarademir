@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Recep</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Recep</h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-recepkarademir0018@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:recepkarademir0018@gmail.com)](mailto:recepkarademir0018@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-recepkarademir-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/recepkarademir/)](https://www.linkedin.com/in/recepkarademir/) [![Github Badge](https://img.shields.io/badge/-recepkarademir-grey?style=flat&logo=github&logoColor=white&link=https://github.com/recepkarademir/)](https://www.github.com/recepkarademir/) 
