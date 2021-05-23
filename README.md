@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 [![Repos Badge](https://badges.pufler.dev/repos/recepkarademir)](https://badges.pufler.dev)
 <samp>
     <p align="center">
-        ════ ⋆★⋆ ════
+        --════ ⋆★⋆ ════--
         <br>
         Happy Coding! 💻
     </p>
