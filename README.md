@@ -4,7 +4,7 @@ recepkarademir/recepkarademir is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 ---><!-- Profile Views Counter -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Recep</h1>
-<h3 align="center">Computer Engineer ⋆TR⋆</h3>
+<h3 align="center">Computer Engineer   ⋆TR⋆  </h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:recepkarademir0018@gmail.com)](mailto:recepkarademir0018@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-recepkarademir-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/recepkarademir/)](https://www.linkedin.com/in/recepkarademir/) 
