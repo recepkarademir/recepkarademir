@@ -8,7 +8,7 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=recepkarademir&show_icons=true&include_all_commits=true)](https://github.com/recepkarademir/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recepkarademir&layout=compact)](https://github.com/recepkarademir/github-readme-stats)
-
+[![Repos Badge](https://badges.pufler.dev/repos/recepkarademir)](https://badges.pufler.dev)
 <!---
 recepkarademir/recepkarademir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
