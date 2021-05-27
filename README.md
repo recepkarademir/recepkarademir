@@ -6,8 +6,8 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Recep</h1>
 <h3 align="center">Computer Engineer   ⋆TR⋆  </h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:recepkarademir0018@gmail.com)](mailto:recepkarademir0018@gmail.com) 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/recepkarademir/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:recepkarademir0018@gmail.com)](mailto:recepkarademir0018@gmail.com) 
 [![Repos Badge](https://badges.pufler.dev/repos/recepkarademir)](https://github.com/recepkarademir?tab=repositories)
 ![Profile views](https://gpvc.arturio.dev/recepkarademir?v=3)
 ## Some of my Github Stats
