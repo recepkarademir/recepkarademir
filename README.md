@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/recepkarademir/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:recepkarademir0018@gmail.com)](mailto:recepkarademir0018@gmail.com) 
-[![BlogBadge](https://img.shields.io/badge/Blogspot-RCP-orange)](https://www.recepkarademir.blogspot.com/)
+[![BlogBadge](https://img.shields.io/badge/Blogspot-RCP-orange)](https://recepkarademir.blogspot.com/)
 [![Repos Badge](https://badges.pufler.dev/repos/recepkarademir)](https://github.com/recepkarademir?tab=repositories)
 ![Profile views](https://gpvc.arturio.dev/recepkarademir?v=3)
 ## Some of my Github Stats
